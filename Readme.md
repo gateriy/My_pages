@@ -1,6 +1,6 @@
 # Федосеев Николай
 
-![alt text](image.png)
+<img src="image.png" alt="drawing" width="200"/>
 
 Учусь на курсах С++ и DevOps инженер в НЕТОЛОГИИ!
 
